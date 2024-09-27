@@ -21,6 +21,12 @@ Run your project: `npm run dev`
 
 Run on your browser Local: `http://localhost:5173/`
 
+## About TheQuote API
+
+Visit the website: https://thequoteapi.com/ 
+
+And submit your email to get the API key via email.
+
 ## To Setup .env File
 
 you must create an .env file in your project folder and save your API key or other sensetive info.
