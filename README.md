@@ -1,4 +1,6 @@
 
+![Screenshot 2024-09-27 at 16 11 17](https://github.com/user-attachments/assets/c7a80594-06b6-4ecf-9525-309facd20151) ![Screenshot 2024-09-27 at 16 11 30](https://github.com/user-attachments/assets/b73ddaf7-7850-4df5-91b7-a55c20430beb)
+
 ## Quotes-ReactVite-Webpage
 
 Quotes App is a React-Vite Random Quotes Generator project, using TheQuote API, display the random quotes by famous Authors, Philosphers, Artists, or Movies, and save it in a List as Favorite with delete options and deploy on Vercel.
